@@ -15,7 +15,7 @@
 
 <br />
 
-Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani), I Web Developer in San Francisco, CA 🌴
+Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani), I'm a Web Developer in San Francisco, CA 🌴
 
 
 - 💻 Working on various tech related to Fin-Tech and Ecommerce.
