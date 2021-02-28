@@ -19,7 +19,7 @@ Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani), I'm a Web Developer i
 
 
 - 💻 Working on various tech related to Fin-Tech and Ecommerce.
-- ⚛️ I’m currently learning React-Native; 
+- ⚛️ I’m currently learning React-Native.
 
 **Languages and Tools:**  
 
