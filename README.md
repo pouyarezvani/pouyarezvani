@@ -19,8 +19,8 @@
 Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani), I'm a Web Developer and Entreprenuer in San Francisco, CA 🌴
 
 
-- 💻 Working on a new awesome start-up called [Invoiss](https://www.invoiss.com/)
-- ⚛️ If you are interested in working with us, email me at pouya@invoiss.com. We are always looking for new talent!
+- 💻 - Working on a new awesome start-up called [Invoiss](https://www.invoiss.com/)
+- ⚛️ - If you are interested in working with us, email me at pouya@invoiss.com. We are always looking for new talent!
 
 **Languages and Tools:**  
 
