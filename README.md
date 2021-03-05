@@ -16,7 +16,7 @@
 
 <br />
 
-Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani), I'm a Web Developer and Entreprenuer in San Francisco, CA 🌴
+Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani), I'm a Web Developer and Entrepreneur in San Francisco, CA 🌴
 
 
 - 💻 - Working on a new awesome start-up called [Invoiss](https://www.invoiss.com/)
