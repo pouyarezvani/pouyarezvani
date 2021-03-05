@@ -16,11 +16,11 @@
 
 <br />
 
-Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani), I'm a Web Developer in San Francisco, CA 🌴
+Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani), I'm a Web Developer and Entreprenuer in San Francisco, CA 🌴
 
 
-- 💻 Working on various tech related to Fin-Tech and Ecommerce.
-- ⚛️ I’m currently learning React-Native.
+- 💻 Working on a new awesome start-up called [Invoiss](https://www.invoiss.com/)
+- ⚛️ If you are interested in working with us, email me at pouya@invoiss.com. We are always looking for new talent!
 
 **Languages and Tools:**  
 
