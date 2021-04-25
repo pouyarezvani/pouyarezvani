@@ -11,8 +11,7 @@
 </a>
 
 
-
-![](https://page-views.glitch.me/badge?page_id=pouyarezvani.visitor-badge)
+![](https://komarev.com/ghpvc/?username=pouyarezvani&color=ff69b4)
 
 <br />
 
