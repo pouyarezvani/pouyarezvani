@@ -15,32 +15,13 @@
 
 <br />
 
-Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani), I'm a Web Developer and Entrepreneur in San Francisco, CA 🌴
+Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani), I'm a Web & App Developer in San Francisco, CA 🌴. I'm in LUV with React Native Development. For the Past year I've decided to learn and master React Native. 
+Currently Im working on a new start-up called [Invoiss](https://www.invoiss.com/). We create a better connection for business owners to place orders with their vendors. 
+
+### 📧 How To Reach Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/pouyarezvani/)
+- 📧 [Email](pouya@invoiss.com)
+- 📣 [Twitter](https://twitter.com/pouyar_)
 
 
-- 💻 - Working on a new awesome start-up called [Invoiss](https://www.invoiss.com/)
-- ⚛️ - If you are interested in working with us, email me at pouya@invoiss.com. We are always looking for new talent!
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://avatars2.githubusercontent.com/u/33663932?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/5658226?s=200&v=4"></code>
-<code><img height="20" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-<br />
-
-📈 My GitHub Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=pouyarezvani&show_icons=true&theme=gotham" alt="Harun Or Rashid" />
