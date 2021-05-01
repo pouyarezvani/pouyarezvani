@@ -20,7 +20,6 @@ Currently Im working on a new start-up called [Invoiss](https://www.invoiss.com/
 
 ### 📧 How To Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/pouyarezvani/)
-- 📧 [Email](pouya@invoiss.com)
 - 📣 [Twitter](https://twitter.com/pouyar_)
 
 
