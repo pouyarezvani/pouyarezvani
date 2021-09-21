@@ -20,8 +20,6 @@
   <img align="center"  width="2000" src="./ReadMe-Assets/banner.png" />
 </p>
 
-<br />
-
 ## Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani) I do web and mobile dev. 
 I love React Native!
 Currently Im working on a new start-up called [Invoiss](https://www.invoiss.com/). We create a better connection for business owners to place orders with their vendors. 
