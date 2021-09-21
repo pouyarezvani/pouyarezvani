@@ -17,9 +17,9 @@
 ![](https://komarev.com/ghpvc/?username=pouyarezvani&color=ff69b4)
 
 <br />
-<a href="https://twitter.com/Pouyar_">
-  <img align="center"  width="700" src="./ReadMe-Assets/banner.png" />
-</a>
+<p align="center">
+  <img align="center"  width="20000" src="./ReadMe-Assets/banner.png" />
+</p>
 
 <br />
 
