@@ -18,7 +18,7 @@
 
 <br />
 <p align="center">
-  <img align="center"  width="2000" height="200" src="./ReadMe-Assets/banner.png" />
+  <img align="center"  width="2000" height="300" src="./ReadMe-Assets/banner.png" />
 </p>
 
 <br />
