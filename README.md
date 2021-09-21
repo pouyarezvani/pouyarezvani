@@ -16,7 +16,6 @@
 
 ![](https://komarev.com/ghpvc/?username=pouyarezvani&color=ff69b4)
 
-<br />
 <p align="center">
   <img align="center"  width="2000" src="./ReadMe-Assets/banner.png" />
 </p>
