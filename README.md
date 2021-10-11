@@ -32,7 +32,8 @@ Currently Im working on a new start-up called [Invoiss](https://www.invoiss.com/
   <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt='Html'> 
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt='Css'> 
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'> 
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='Javascript'> 
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt='Javascript'>
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript" alt='TypeScript'> 
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt='Nodejs'> 
   <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt='github'> 
   <img src="https://img.shields.io/badge/-FIgma-black?style=flat-square&logo=figma" alt='figma'> 
