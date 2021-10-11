@@ -24,9 +24,11 @@
 I love React Native!
 Currently Im working on a new start-up called [Invoiss](https://www.invoiss.com/). We create a better connection for business owners to place orders with their vendors. 
 
-### 🛠&nbsp;Tools and Languages
+### 🛠&nbsp;Tools and Languages I Work With
 <div style='display: flex; align-content: center'/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt='React'> 
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" alt='React'>
+  <img src="https://img.shields.io/badge/-React Native-black?style=flat-square&logo=react" alt='React Native'>
+  <img src="https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=GraphQL" alt='GraphQL'>
   <img src="https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5" alt='Html'> 
   <img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3" alt='Css'> 
   <img src="https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass" alt='Sass'> 
