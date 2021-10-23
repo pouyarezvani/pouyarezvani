@@ -40,7 +40,7 @@ Currently Im working on a new start-up called [Invoiss](https://www.invoiss.com/
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visual-studio-code&logoColor=007ACC" alt='vs code'> 
 </div>
 
-### 📧 How To Reach Me
+## 📧 How To Reach Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/pouyarezvani/)
 - 📣 [Twitter](https://twitter.com/pouyar_)
 
