@@ -22,7 +22,6 @@
 
 ## Hi, I'm [Pouya Rezvani!](https://github.com/pouyarezvani) I do web and mobile dev. 
 I love React Native!
-Currently Im working on a new start-up called [Invoiss](https://www.invoiss.com/). We create a better connection for business owners to place orders with their vendors. 
 
 ### 🛠&nbsp;Tools and Languages I Work With
 <div style='display: flex; align-content: center'/>
