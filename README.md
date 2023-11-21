@@ -3,11 +3,11 @@
 
 
 <a href="https://twitter.com/Pouyar_">
-  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left"  width="22px" src="https://cdn.cms-twdigitalassets.com/content/dam/about-twitter/x/large-x-logo.png.twimg.768.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/pouyarezvani/">
-  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left"  width="22px" src="https://github.githubassets.com/assets/linkedin-3c0ace8edb5f.svg" />
 </a>
 
  <a href="https://www.instagram.com/pouyar_/">
